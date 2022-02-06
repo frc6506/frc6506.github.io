@@ -20,7 +20,7 @@ Hello, and welcome to the landing page for the Steel Boot programming team!  Thi
 
 [Instagram](https://www.instagram.com/frcteam6506/)
 
-[Email](mailto://FRCteam6506@gmail.com)
+[Email](mailto:FRCteam6506@gmail.com)
 
 [YouTube](https://www.youtube.com/channel/UCAoZ07GCdY7k6SkPM58Gm-A)
 
