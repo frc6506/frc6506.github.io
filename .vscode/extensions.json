@@ -2,7 +2,6 @@
     "recommendations": [
         "bierner.github-markdown-preview",
         "DavidAnson.vscode-markdownlint",
-        "earshinov.permute-lines",
         "streetsidesoftware.code-spell-checker"
     ]
 }
