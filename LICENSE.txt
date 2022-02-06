@@ -1,0 +1,17 @@
+---------+---------+---------+---------+---------+---------+---------+---------+
+The following files are copyright 2019 - 2020 Steel Boot Robotics:
+  - "TeamLogoSquare.jpg"
+  
+GITHUB®, the GITHUB® logo design, OCTOCAT® and the OCTOCAT® logo design are
+  exclusive trademarks registered in the United States by GitHub, Inc.
+The following files are copyright GitHub, Inc.  More information can be found
+  at "https://github.com/logos":
+  - "GitHub-Mark-120px-plus.png"
+  
+ Everything else is copyright 2020-21 Steel Boot Robotics and contributors and
+  made available under the Mozilla Public License Version 2.0.  The text may
+  be found in the file "MPL2-0.txt" or by navigation to
+  "https://www.mozilla.org/en-US/MPL/2.0/".
+
+This project shares code with https://github.com/frc6506/docs .
+
