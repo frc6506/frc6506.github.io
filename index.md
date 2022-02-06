@@ -4,7 +4,7 @@
 
 Hello, and welcome to the landing page for the Steel Boot programming team!  This is index contains some links that may be useful.
 
-## Programing Sub-Team Links
+## Programming Sub-Team Links
 
 [Repository README](https://github.com/frc6506/frc6506.github.io/blob/main/README.md)
 
@@ -12,9 +12,9 @@ Hello, and welcome to the landing page for the Steel Boot programming team!  Thi
 
 [Team GitHub](https://github.com/orgs/frc6506)
 
-## Other LInks
+## Other Links
 
-[Team Webpage](https://steelboot.weebly.com/)
+[Team Website](https://steelboot.weebly.com/)
 
 [Twitter](https://twitter.com/FRC6506)
 
