@@ -7,7 +7,7 @@ Landing page for frc6506.github.io .
 [![Compress images](https://github.com/frc6506/frc6506.github.io/actions/workflows/imageActions.yml/badge.svg)](https://github.com/frc6506/frc6506.github.io/actions/workflows/imageActions.yml)
 [![pages-build-deployment](https://github.com/frc6506/frc6506.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/frc6506/frc6506.github.io/actions/workflows/pages/pages-build-deployment)
 
-If you would like to help, see [CONTRIBUTING.md]([CONTRIBUTING.md](https://github.com/frc6506/frc6506.github.io/blob/main/CONTRIBUTING.md)
+If you would like to help, see [CONTRIBUTING.md](https://github.com/frc6506/frc6506.github.io/blob/main/CONTRIBUTING.md)
 
 <br>
 
