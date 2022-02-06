@@ -2,7 +2,6 @@
 
 Please note that team wide, school, district, and FIRST policies supersede
 this document should they conflict.
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -121,6 +120,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 the community.
 
 ## Attribution
+
+> Adapted from [frc6506/docs](https://github.com/frc6506/docs/blob/master/CODE_OF_CONDUCT.md), which contained the below message:
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
