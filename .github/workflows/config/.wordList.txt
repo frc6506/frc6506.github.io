@@ -25,6 +25,7 @@ exe
 faq
 frc
 FRC
+frcteam
 FRCteam
 gifs
 github
