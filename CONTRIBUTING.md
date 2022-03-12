@@ -68,4 +68,10 @@ Nonprofits get free space, but the compress images action should be running anyw
 
 <br>
 
-_Updated 20220206T1230 PT_
+## List of Contributors
+
+Author: @BobSaidHi
+Apps: dependabot
+Github Actions: actions/checkout, avtodev/markdown-lint, calibreapp/image-actions, rojopolis/spellcheck-github-actions
+
+_Updated 20220312 PDT_
