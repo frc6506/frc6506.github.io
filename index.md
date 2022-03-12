@@ -1,4 +1,4 @@
-# Index of FRC 6506 docs
+# Index of FRC 6506 Programming Landing Page
 
 ## Welcome to frc6506.github.io
 
@@ -26,4 +26,4 @@ Hello, and welcome to the landing page for the Steel Boot programming team!  Thi
 
 <br>
 
-_Updated 20220206T1200 PT_
+_Updated 20220312T1445 PT_
