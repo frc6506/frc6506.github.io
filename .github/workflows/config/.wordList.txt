@@ -80,6 +80,7 @@ SPX
 SRX
 steelboot
 Steelboot
+steelbootrobotics
 substring
 TalonSRX
 Trayford
