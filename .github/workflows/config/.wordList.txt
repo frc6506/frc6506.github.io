@@ -25,6 +25,7 @@ exe
 faq
 frc
 FRC
+frcteam
 FRCteam
 gifs
 github
@@ -80,6 +81,7 @@ SPX
 SRX
 steelboot
 Steelboot
+steelbootrobotics
 substring
 TalonSRX
 Trayford
