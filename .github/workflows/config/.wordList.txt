@@ -1,9 +1,11 @@
 allwpilib
 APCSA
 AppData
+avtodev
 BobSaidHi
 boolean
 Booleans
+calibreapp
 CMD
 Codecademy
 CodeHS
@@ -14,6 +16,7 @@ config
 CTRE
 Ctrl
 declutter
+dependabot
 drivetrain
 Drivetrain
 dropdown
@@ -70,6 +73,7 @@ reverified
 REVLib
 revrobotics
 roboRIO
+rojopolis
 RSL
 runtime
 Runtime
