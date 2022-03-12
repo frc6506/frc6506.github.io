@@ -6,23 +6,23 @@ Hello, and welcome to the landing page for the Steel Boot programming team!  Thi
 
 ## Programming Sub-Team Links
 
-[Repository README](https://github.com/frc6506/frc6506.github.io/blob/main/README.md)
+[Repository README (github.com/frc6506)](https://github.com/frc6506/frc6506.github.io/blob/main/README.md)
 
-[Team Docs website](https://frc6506.github.io/docs)
+[Team Docs website (docs.steelbootrobotics.org)](https://docs.steelbootrobotics.org/docs/) [Alt. URL (frc6506.github.io)](https://frc6506.github.io/docs)
 
-[Team GitHub](https://github.com/orgs/frc6506)
+[Team GitHub (github.com/frc6506)](https://github.com/frc6506)
 
 ## Other Links
 
-[Team Website](https://steelboot.weebly.com/)
+[Team Website (steelbootrobotics.org)](https://www.steelbootrobotics.org/) [Alt. URL (steelboot.weebly.com)](https://steelboot.weebly.com/)
 
-[Twitter](https://twitter.com/FRC6506)
+[Twitter (@FRC6506)](https://twitter.com/FRC6506)
 
-[Instagram](https://www.instagram.com/frcteam6506/)
+[Instagram (@frcteam6506)](https://www.instagram.com/frcteam6506/)
 
-[Email](mailto:FRCteam6506@gmail.com)
+[Email (FRCteam6506@gmail.com)](mailto:FRCteam6506@gmail.com)
 
-[YouTube](https://www.youtube.com/channel/UCAoZ07GCdY7k6SkPM58Gm-A)
+[YouTube (FRC team 6506)](https://www.youtube.com/channel/UCAoZ07GCdY7k6SkPM58Gm-A)
 
 <br>
 
