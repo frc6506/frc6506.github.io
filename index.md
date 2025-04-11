@@ -14,11 +14,11 @@ Hello, and welcome to the landing page for the Steel Boot programming team!  Thi
 
 ## Other Links
 
-[Team Website (steelbootrobotics.org)](https://www.steelbootrobotics.org/) [Alt. URL (steelboot.weebly.com)](https://steelboot.weebly.com/)
+[Team Website (steelbootrobotics.org)](https://www.steelbootrobotics.org/)
 
 [Twitter (@FRC6506)](https://twitter.com/FRC6506)
 
-[Instagram (@frcteam6506)](https://www.instagram.com/frcteam6506/)
+[Instagram (@steelbootrobotics)](https://www.instagram.com/steelbootrobotics/)
 
 [Email (FRCteam6506@gmail.com)](mailto:FRCteam6506@gmail.com)
 
