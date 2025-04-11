@@ -115,5 +115,6 @@ WPLib
 WRRF
 www
 wixsite
+Wixsite
 yaml
 yml
